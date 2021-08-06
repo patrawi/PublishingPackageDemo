@@ -1,0 +1,16 @@
+{
+  "name": "basic-cmd-hello",
+  "version": "1.0.0",
+  "description": "This is a demo package using for testing how to publish a module package into npmjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "private": false,
+  "bugs" : {
+    "email": "pirawatpatrawi@gmail.com"
+  },
+  "homepage": "https://github.com/patrawi",
+  "author" : "Patrawi27"
+}
